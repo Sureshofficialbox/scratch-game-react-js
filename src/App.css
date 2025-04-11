@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #4caf50;
+}
+
+.leaderboard {
+  margin: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}

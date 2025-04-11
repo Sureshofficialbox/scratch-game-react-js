@@ -1,0 +1,12 @@
+.game-board {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #4caf50;
+}
