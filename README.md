@@ -18,6 +18,15 @@ Scratch Game is a fun and interactive web application where users can "scratch" 
 ![image](https://github.com/user-attachments/assets/09143585-9040-48d7-9376-0b9767a8040f)
 ![image](https://github.com/user-attachments/assets/16ba150b-d0c3-47c5-a7b0-c45338ac5dd7)
 
+## Reward Calculation Logic
+
+![image](https://github.com/user-attachments/assets/06911211-a94c-4e98-a55c-ac2650b3cfea)
+
+![image](https://github.com/user-attachments/assets/bbaa6d1d-872f-4ea5-8ba5-5a00a729e6f8)
+
+
+
+
 ## Installation
 
 1. Clone the repository:
