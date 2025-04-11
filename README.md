@@ -30,8 +30,32 @@ Scratch Game is a fun and interactive web application where users can "scratch" 
 
 ---
 
-#### **6. Deployment**
-Explain how the game is deployed and where users can play it.
+## Deployment
+
+The Scratch Game is live and available to play online! 🎮
+
+### Deployment Details:
+- The project is deployed on **GitHub Pages**, a free and reliable hosting platform for static websites.
+- The production-ready files were built using Vite and pushed to the `gh-pages` branch of the GitHub repository.
+- GitHub Pages serves the app directly from the subdirectory `/scratch-game-react-js/` under the repository.
+
+### How to Access the Live Game:
+- You can play the Scratch Game by visiting:  
+  **[Scratch Game Live](https://Sureshofficialbox.github.io/scratch-game-react-js)**
+
+### How It Works:
+1. **Build Process**:
+   - Run `npm run build` to generate optimized production files in the `dist` folder.
+2. **Deployment Command**:
+   - Use `gh-pages` to deploy the `dist` folder to the `gh-pages` branch:
+     ```bash
+     npm run deploy
+     ```
+3. **Hosting**:
+   - GitHub Pages is automatically configured to serve the app from the `gh-pages` branch.
+
+Enjoy the game live and test your luck by scratching to win exciting rewards! ✨
+
 
 ## Deployment
 The game is live and accessible at:
