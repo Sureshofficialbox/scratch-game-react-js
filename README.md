@@ -20,12 +20,36 @@ Scratch Game is a fun and interactive web application where users can "scratch" 
 
 ## Reward Calculation Logic
 
+The points for symbols are as mentioned in the below table
+
 ![image](https://github.com/user-attachments/assets/0fad0037-0fa0-439e-86b9-231ac9a484b9)
 
 ![image](https://github.com/user-attachments/assets/bbaa6d1d-872f-4ea5-8ba5-5a00a729e6f8)
 
+Winning Condition: 
+Reward will be calculated only if a symbols occurance is greater than or equal to 3.
 
+Example
+![image](https://github.com/user-attachments/assets/039bbe35-a117-41f2-97f7-10ef9aed5dca)
 
+In the above image as the symbol B has occured 3 times,as the condition has been satisfied the APP enters into reward calculation.
+Reward Calculation: 
+Value of B=75
+Occurance of B=3 times
+Reward = Value of B X Occurance of B
+       = 75 X 3
+       = 225
+Special Symbol Calculation:
+The Special symbol calculation will be taken into account only if the winning condition is satisfied.
+value of special symbol [![image](https://github.com/user-attachments/assets/0863b52d-3901-4507-90c7-73059e74e92a)] = 1000
+
+Total Reward = Reward + Special Symbol Value
+             = 225 + 1000
+       Total Reward: 1225 🎉
+             
+
+Bonus:
+The bonus will be taken into account only if the above mentioned winning condition is satisfied.
 
 ## Installation
 
