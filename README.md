@@ -21,7 +21,6 @@ Scratch Game is a fun and interactive web application where users can "scratch" 
 ## Reward Calculation Logic
 
 ![image](https://github.com/user-attachments/assets/06911211-a94c-4e98-a55c-ac2650b3cfea)
-
 ![image](https://github.com/user-attachments/assets/bbaa6d1d-872f-4ea5-8ba5-5a00a729e6f8)
 
 
