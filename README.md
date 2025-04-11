@@ -1,4 +1,12 @@
 # Scratch Game 🎮 WANT TO GO LIVE GAME : (https://Sureshofficialbox.github.io/scratch-game-react-js/)
+Scratch Game 🎮
+# Scratch Game 🎮
+
+**[WANT TO GO LIVE GAME: Click here](https://Sureshofficialbox.github.io/scratch-game-react-js/)**
+
+Experience the thrill of the Scratch Game live by clicking the link above!
+WANT TO GO LIVE GAME: Click here
+
 ## Description
 Scratch Game is a fun and interactive web application where users can "scratch" cells to uncover hidden symbols and win rewards. Built using React and Vite, this project demonstrates modern web development techniques and provides an engaging gaming experience.
 
