@@ -1,8 +1,5 @@
-# Scratch Game 🎮 WANT TO GO LIVE GAME : (https://Sureshofficialbox.github.io/scratch-game-react-js/)
-Scratch Game 🎮
-# Scratch Game 🎮
 
-**[WANT TO GO LIVE GAME: Click here](https://Sureshofficialbox.github.io/scratch-game-react-js/)**
+# Scratch Game 🎮 **[WANT TO GO LIVE GAME: Click here](https://Sureshofficialbox.github.io/scratch-game-react-js/)**
 
 Experience the thrill of the Scratch Game live by clicking the link above!
 WANT TO GO LIVE GAME: Click here
